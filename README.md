@@ -1,4 +1,4 @@
-![Aishwarya Venkatraman]((https://raw.githubusercontent.com/Aishwarya-Venkatraman/Aishwarya-Venkatraman/main/github_cover.png))
+![Aishwarya Venkatraman]((github_cover.png))
 
 ### Hi there 👋
 
