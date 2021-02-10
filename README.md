@@ -8,7 +8,7 @@ I am Aishwarya Venkatraman :woman_dancing: - Frontend developer. My specialties 
 
 I am also about passionate about cooking :woman_cook: . I have a blog and youtube channel for cooking called Joy Kitchen.
 
-My cooking blog is [Joy Kitchen](http://joykitchen.in/) and my youtube channael is [Joy Kitchen - Taste the difference](https://www.youtube.com/channel/UCk9f88yZfQmmN3oUGDeH6zg)
+My cooking blog is [Joy Kitchen](http://joykitchen.in/) and my youtube channel is [Joy Kitchen - Taste the difference](https://www.youtube.com/channel/UCk9f88yZfQmmN3oUGDeH6zg)
 
 Connect with me today
 
