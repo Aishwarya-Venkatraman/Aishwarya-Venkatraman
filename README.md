@@ -6,7 +6,7 @@ I am Aishwarya Venkatraman :woman_dancing: - Frontend developer. My specialties 
 
 [My Github Page](https://aishwarya-venkatraman.github.io/) to see my personal projects.
 
-I am also about passionate about cooking :woman_cook: . 
+I am also about passionate about cooking :woman_cook:. 
 
 Connect with me today
 
